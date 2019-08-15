@@ -1,0 +1,21 @@
+- Personal information storage to save like interesting links or information but
+on the server
+- List of interesting sites or links to grow, educate, learn something new
+- Interesting api stuff to send data
+- Profile function as well to collect data about user so then in future to use
+it to send user relatable informationi nteresting for him and communicate based
+on it like 'tell me about yourself' so that i could be the most helpful for you
+in here
+- Polls or quizes
+- Maybe collect users mails and send them info about updates
+
+- Look for more gifs and return them with appropriate commands to create
+illusion of full chat experience with steve jobs
+- Extend idea of education and self improvement
+- Maybe make only one big file with quotes
+- Maybe rename constants into settings and add there whole bot project settings
+functions
+- Maybe add wiki option to look up for word and receive small explanation
+directly during chat ?
+- Send me some pictures that motivate you, and i will be sending them to you
+from time ti time to keep you motivated
